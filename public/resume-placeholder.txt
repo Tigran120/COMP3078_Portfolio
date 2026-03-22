@@ -1,0 +1,3 @@
+Resume placeholder
+------------------
+Replace this file with your final PDF resume and update the link in src/data/portfolioData.js.

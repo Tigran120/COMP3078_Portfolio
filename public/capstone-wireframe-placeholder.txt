@@ -1,0 +1,3 @@
+Capstone wireframe/mockup placeholder
+-------------------------------------
+Add your screenshots/mockups in /public and update the path in src/data/portfolioData.js.
